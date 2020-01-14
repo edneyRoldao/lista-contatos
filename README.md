@@ -1,12 +1,11 @@
-# angular-todd-course
+# lista contatos
 
-Curso de angular - do basico ao avançado.
+Projeto em angular para realização de simples teste de integração com selenium
 
-### branch: configuracao-projeto
-- Deixei o projeto na forma mais minimalista possivel utilizando o cli
-- Foi adicionado ao projeto o bootstrap
-- Foram removidos todos os arquivos referentes a testes gerados pelo cli
-- A pasta environments tambem foi removido
-- Os arquivos index.html, main.js e angular.json foram alterados
-- Os dados do componente app tambem foram modificados
+### como rodar o projeto
+- instalar o nodeJS
+- instalar o angular cli
+- executar o comando: npm install
+- executar o comando: ng serve
+- http://localhost:4200
 
